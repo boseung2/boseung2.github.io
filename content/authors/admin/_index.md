@@ -6,7 +6,7 @@ title: 정보승
 superuser: true
 
 # Role/position
-role: "student"
+role: "전북대학교"
 
 # Status emoji
 status:
