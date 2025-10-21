@@ -28,9 +28,9 @@ Check out my [resumé](/about/) and portfolio below 😍
 <!-- ✅ 3단 자동 사진 슬라이더 -->
 <div class="home-slider">
   <div class="slides">
-    <img src="/assets/media/slider1.png" alt="Slider 1">
-    <img src="/assets/media/slider2.png" alt="Slider 2">
-    <img src="/assets/media/slider3.png" alt="Slider 3">
+    <img src="/media/slider1.png" alt="Slider 1">
+    <img src="/media/slider2.png" alt="Slider 2">
+    <img src="/media/slider3.png" alt="Slider 3">
   </div>
 </div>
 
